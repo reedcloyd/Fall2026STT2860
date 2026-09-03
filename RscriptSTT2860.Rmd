@@ -1,5 +1,6 @@
 ---
 title: "Github"
+author: "Reed Cloyd"
 output: html_document
 date: "2026-09-03"
 ---
